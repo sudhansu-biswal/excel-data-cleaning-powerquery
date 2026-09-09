@@ -84,3 +84,5 @@ Excel 365 · Power Query (M) · Pivot Tables
 *I spent 12 years in QA/QC on refinery, steel plant and fabrication projects — IOCL Paradip, Jindal Steel Angul, Tata Steel HSM. I have built and repaired more site reporting spreadsheets than I can count. This is what I wish they had been.*
 
 **Contact:** skbiswal5244@gmail.com
+
+**More Work:** https://sudhansu-biswal.notion.site/Sudhansu-Kumar-Biswal-Data-Analyst-3d6edd782f3981adaef7cad049c77368
